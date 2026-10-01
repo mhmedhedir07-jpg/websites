@@ -1,4 +1,5 @@
-# User manual
+Files: SDK 37 V 372038360
+OS SECURITY_PATCH:2024-10-01# User manual
 
 [[toc]]
 
